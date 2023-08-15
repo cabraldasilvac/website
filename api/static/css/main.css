@@ -1,0 +1,109 @@
+body {
+    background: -webkit-linear-gradient(
+        to right,
+        #031446,
+        #09299f
+    ); /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(
+        to right,
+        #031446,
+        #021b79
+    ); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+}
+
+.container-fluid {
+    background: linear-gradient(120deg, #fdfbfb 0%, #ebedee 100%);
+}
+
+h1 {
+    font-family: cursive;
+}
+p {
+    color: #031446;
+}
+.avatar img {
+    border-radius: 50%;
+    border: 2px solid #021b79;
+    width: 150px;
+    height: 150px;
+}
+
+.avatar {
+    display: flex;
+    align-items: center;
+}
+
+.calendar img {
+    border: 2px solid #021b79;
+    width: 700px;
+    height: 150px;
+}
+
+.calendar {
+    display: flex;
+    align-items: center;
+}
+
+.github img {
+    width: 80px;
+    height: 80px;
+}
+
+.github {
+    display: flex;
+    align-items: center;
+}
+
+.bg-calendar {
+    background-color: rgb(107, 196, 240);
+    font-style: italic;
+}
+
+.ano {
+    color: rgb(9, 86, 229);
+}
+
+.redes {
+    display: flex;
+    align-items: center;
+}
+
+.material-icons {
+    padding: 10px;
+    font-size: 40px;
+    width: 40px;
+    text-decoration: none;
+    margin: 5px 80px;
+}
+
+.fa:hover {
+    opacity: 0.9;
+}
+
+.fa-linkedin {
+    background: #007bb5;
+    color: white;
+}
+
+.fa-twitter {
+    background: #113ded;
+    color: white;
+}
+
+.fa-github {
+    background: #0b0b0b;
+    color: white;
+}
+
+.fa-instagram {
+    background: #cf5f0f;
+    color: white;
+}
+
+.fa {
+    padding: 10px;
+    font-size: 18px;
+    width: 65px;
+    text-decoration: none;
+    margin: 5px 10px;
+}
