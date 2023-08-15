@@ -1,12 +1,12 @@
 # WebSite
 
-## Este projeto foi desenvolvido usando a linguagem Python e o Django.
+### Este projeto foi desenvolvido usando a linguagem Python e o Django.
 
-## É um Web Site tipo BLOG para registrar/informar evolução nos estudos da Faculdade.
+### É um Web Site tipo BLOG para registrar/informar evolução nos estudos da Faculdade.
 
-## O próximo passo é implementar um Banco de Dados e fazer a integração com o WebSite.
+### O próximo passo é implementar um Banco de Dados e fazer a integração com o WebSite.
 
-1. o Site está hospedado na Vercel.
+1. O Site está hospedado na Vercel.
 2. Ele possui uma página Home, Contact, About, layout e projects.
 3. A arquitetura das pastas foram organizadas assim comforme a imagem abaixo.
 
@@ -29,4 +29,4 @@
 
 8. 🚧 - Projeto em Construção
 
-9. WebSite Hospedado em [Vercel](https://vercel.com/cabraldasilvac/website) clique e deixe sua opinião.
+9. WebSite Hospedado em [Vercel](https://website-omega-ten-38.vercel.app/) clique e deixe sua opinião.
