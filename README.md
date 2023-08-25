@@ -1,6 +1,6 @@
 # WebSite
 
-### Este projeto foi desenvolvido usando a linguagem Python e o Django.
+### Este projeto foi desenvolvido usando a linguagem Python e Django.
 
 ### É um Web Site tipo BLOG para registrar/informar evolução nos estudos da Faculdade.
 
@@ -29,4 +29,4 @@
 
 8. 🚧 - Projeto em Construção
 
-9. WebSite Hospedado em [Vercel](https://website-omega-ten-38.vercel.app/) clique e deixe sua opinião.
+9. WebSite em [Vercel]() clique e deixe sua opinião.
