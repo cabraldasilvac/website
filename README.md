@@ -23,10 +23,17 @@
 
 5. Para usar o projeto, após o **_git clone_** será necessário instalar o Python3.
 
-6. Este projeto ainda esta em construção, a próxima implementação será um Banco de Dados e um integração com gitHub e Vercel para automatizar a futuras atualizações do WebSite.
+6. Para ativar o Virtual Venv use o comando.
 
-7. Caso você deseje colaborar com o projeto, será uma grande alegria receber sua colaboração.
+```
+source venv/bin/activate
 
-8. 🚧 - Projeto em Construção
+```
 
-9. WebSite em [Vercel]() clique e deixe sua opinião.
+7. Este projeto ainda esta em construção, a próxima implementação será um Banco de Dados e um integração com gitHub e Vercel para automatizar a futuras atualizações do WebSite.
+
+8. Caso você deseje colaborar com o projeto, será uma grande alegria receber sua colaboração.
+
+9. 🚧 - Projeto em Construção
+
+10. WebSite em [Vercel]() clique e deixe sua opinião.
