@@ -162,3 +162,6 @@ cython_debug/
 .vercel
 
 
+# Vscode
+node_modules/
+.DS_Store
