@@ -23,6 +23,10 @@
 
 5. Para usar o projeto, após o **_git clone_** será necessário instalar o Python3.
 
+- instalar o Python `yarn add python3`
+- instalar a biblioteca Flask `pip install Flask`
+- Atualizar o pip ` python3.11 -m pip install --upgrade pip`
+
 6. Para ativar o Virtual Venv use o comando.
 
 ```
@@ -30,10 +34,12 @@ source venv/bin/activate
 
 ```
 
-7. Este projeto ainda esta em construção, a próxima implementação será um Banco de Dados e um integração com gitHub e Vercel para automatizar a futuras atualizações do WebSite.
+- Não esquecer de desativar o venv. `deactive`
+
+7. Este projeto ainda está em construção.🚧 A próxima implementação será um Banco de Dados e um integração com GitHub e Vercel para automatizar a futuras atualizações do WebSite.
 
 8. Caso você deseje colaborar com o projeto, será uma grande alegria receber sua colaboração.
 
 9. 🚧 - Projeto em Construção
 
-10. WebSite em [Vercel]() clique e deixe sua opinião.
+10. WebSite em [Vercel](https://website-red-eight.vercel.app/) clique e deixe sua opinião.
