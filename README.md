@@ -1,4 +1,4 @@
-# WebSite
+# Projeto WebSite
 
 ### Este projeto foi desenvolvido usando a linguagem Python e Django.
 
