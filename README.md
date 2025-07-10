@@ -9,6 +9,8 @@
 1. O Site está hospedado na Vercel.
 2. Ele possui uma página Home, Contact, About, layout e projects.
 3. A arquitetura das pastas foram organizadas assim comforme a imagem abaixo.
+4. Criei um workflow ci/cd
+5. Fiz integração com o n8n - criando um fluxo de mensagem que será enviada para o canal assim que o workflow for acionado.
 
 <div align="center"> </div>
   <p float="left">
