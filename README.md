@@ -59,7 +59,8 @@ PYTHONPATH=. pytest -v tests/
 ```
 This command ensures the `api` module is correctly found.
 
-## Continuous Integration
+### Continuous Integration
+
 The project is configured with a GitHub Actions workflow (`.github/workflows/ci.yml`) that:
 - Lints the Python code using flake8
 - Runs the tests
