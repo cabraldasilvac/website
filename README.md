@@ -42,7 +42,7 @@ source venv/bin/activate
 
 8. Caso você deseje colaborar com o projeto, será uma grande alegria receber sua colaboração.
 
-9. 🚧 - Projeto em Construção
+9. 🚧 - Projeto em Construção -
 
 10. WebSite em [Vercel](https://website-red-eight.vercel.app/) clique e deixe sua opinião.
 
