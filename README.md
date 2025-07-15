@@ -1,4 +1,4 @@
-# Projeto WebSite de desenvolvimento 
+# Projeto WebSite de desenvolvimento durante o periodo da Faculdade
 
 ### Este projeto foi desenvolvido usando a linguagem Python e Django.
 
@@ -51,6 +51,7 @@ source venv/bin/activate
 ### Install dependencies
 
 Use the following command to install all required Python packages:
+
 ```
 python3 -m pip install -r requirements.txt
 ```
@@ -58,18 +59,20 @@ python3 -m pip install -r requirements.txt
 ### Running tests
 
 To run the tests locally, use:
+
 ```
 PYTHONPATH=. pytest -v tests/
 ```
+
 This command ensures the `api` module is correctly found.
 
 ### Continuous Integration
 
 The project is configured with a GitHub Actions workflow (`.github/workflows/ci.yml`) that:
+
 - Lints the Python code using flake8
 - Runs the tests
 - Builds the project
 - Deploys automatically to Vercel on pushes to `main` branch
 
 Make sure to set your `VERCEL_TOKEN` secret in GitHub for deployment.
-
