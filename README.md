@@ -49,12 +49,14 @@ source venv/bin/activate
 ## Setup
 
 ### Install dependencies
+
 Use the following command to install all required Python packages:
 ```
 python3 -m pip install -r requirements.txt
 ```
 
 ### Running tests
+
 To run the tests locally, use:
 ```
 PYTHONPATH=. pytest -v tests/
