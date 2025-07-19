@@ -4,7 +4,10 @@
 
 ### É um Web Site tipo BLOG para registrar/informar evolução nos estudos da Faculdade.
 
-### O próximo passo é implementar um Banco de Dados e fazer a integração com o WebSite.
+### O próximos passos:
+-  implementar um Banco de Dados e fazer a integração com o WebSite.
+- criar uma pipeline
+
 
 1. O Site está hospedado na Vercel.
 2. Ele possui uma página Home, Contact, About, layout e projects.
