@@ -6,8 +6,9 @@
 
 ### O próximos passos:
 
-[  ] - implementar um Banco de Dados e fazer a integração com o WebSite.
-[✅] = criar uma pipeline 
+- [] implementar um Banco de Dados
+- [] fazer a integração com o WebSite.
+- [✅] criar uma pipeline 
 
 1. O Site está hospedado na Vercel.
 2. Ele possui uma página Home, Contact, About, layout e projects.
@@ -42,7 +43,7 @@ source venv/bin/activate
 
 - Não esquecer de desativar o venv. `deactive`
 
-7. Este projeto ainda está em construção.🚧 A próxima implementação será um Banco de Dados e um integração com GitHub e Vercel para automatizar a futuras atualizações do WebSite.
+7. Este projeto ainda está em construção.🚧 A próxima implementação será implementar um Banco de Dados e um integração com GitHub e Vercel para automatizar a futuras atualizações do WebSite.
 
 8. Caso você deseje colaborar com o projeto, será uma grande alegria receber sua colaboração.
 
