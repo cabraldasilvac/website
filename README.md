@@ -28,15 +28,17 @@
   
    No arquivo requirements.txt tem uma lista completa das tecnologias usadas no projeto.
 
-6. Para usar o projeto, após o **_git clone_** será necessário instalar o Python3.
+5. Para usar o projeto, após o **_git clone_** será necessário instalar o Python3.
 
 - instalar o Python `yarn add python3`
 - instalar a biblioteca Flask `pip install Flask`
 - Atualizar o pip ` python3.11 -m pip install --upgrade pip`
 
-6. Para ativar o Virtual Venv use o comando.
+6. Para criar e ativar o Virtual Venv use o comando.
 
 ```
+python -m venv <nome_do_ambiente>
+
 source venv/bin/activate
 
 ```
