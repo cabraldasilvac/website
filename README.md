@@ -5,9 +5,9 @@
 ### É um Web Site tipo BLOG para registrar/informar evolução nos estudos da Faculdade.
 
 ### O próximos passos:
--  implementar um Banco de Dados e fazer a integração com o WebSite.
-- criar uma pipeline
 
+[  ] - implementar um Banco de Dados e fazer a integração com o WebSite.
+[✅] = criar uma pipeline 
 
 1. O Site está hospedado na Vercel.
 2. Ele possui uma página Home, Contact, About, layout e projects.
@@ -21,12 +21,13 @@
   </p>
 
 4. Eu usei o ambiente de desenvolvimento integrado(IDE do inglês Integrated Development Environment) para desenvolver e editar o código.
-   a - Linguagem Python;
-   b - O Flask;
-   c - Django...
+- Linguagem Python
+- O Flask
+- O Django
+  
    No arquivo requirements.txt tem uma lista completa das tecnologias usadas no projeto.
 
-5. Para usar o projeto, após o **_git clone_** será necessário instalar o Python3.
+6. Para usar o projeto, após o **_git clone_** será necessário instalar o Python3.
 
 - instalar o Python `yarn add python3`
 - instalar a biblioteca Flask `pip install Flask`
@@ -51,31 +52,34 @@ source venv/bin/activate
 
 ## Setup
 
-### Install dependencies
+### Instalar DependIencias 
 
-Use the following command to install all required Python packages:
+Use o seguinte comando para instalar todos os pacotes Python necessários:
 
 ```
 python3 -m pip install -r requirements.txt
 ```
 
-### Running tests
+### Rodar os testes
 
-To run the tests locally, use:
+Para executar os testes localmente, use:
 
 ```
 PYTHONPATH=. pytest -v tests/
 ```
 
-This command ensures the `api` module is correctly found.
+Este comando garante que o módulo `api` seja encontrado corretamente.
 
-### Continuous Integration
+### Integração Contínua
 
-The project is configured with a GitHub Actions workflow (`.github/workflows/ci.yml`) that:
+O projeto é configurado com um fluxo de trabalho do GitHub Actions(`.github/workflows/ci.yml`) que:
 
-- Lints the Python code using flake8
-- Runs the tests
-- Builds the project
-- Deploys automatically to Vercel on pushes to `main` branch
+- Lints do código Python usando flake8
+- Executa os testes
+- Compila o projeto
+- Implanta automaticamente no Vercel ao enviar para a branch `main`
 
-Make sure to set your `VERCEL_TOKEN` secret in GitHub for deployment.
+Certifique-se de definir seu TOKEN `VERCEL_TOKEN` no GitHub para implantação.
+
+
+
