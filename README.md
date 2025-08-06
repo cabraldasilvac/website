@@ -23,16 +23,30 @@
 
 4. Eu usei o ambiente de desenvolvimento integrado(IDE do inglês Integrated Development Environment) para desenvolver e editar o código.
 - Linguagem Python
-- O Flask
-- O Django
+- O Flask - um Framework poderoso e flexível que facilita o desenvolvimento de aplicações web e APIs com a linguagem de programação Python
+- O Django - um Framework Ele oferece uma estrutura completa para o desenvolvimento de aplicações web, incluindo funcionalidades como roteamento, modelagem de dados, templates e segurança.
   
    No arquivo requirements.txt tem uma lista completa das tecnologias usadas no projeto.
 
 5. Para usar o projeto, após o **_git clone_** será necessário instalar o Python3.
 
-- instalar o Python `yarn add python3`
-- instalar a biblioteca Flask `pip install Flask`
-- Atualizar o pip ` python3.11 -m pip install --upgrade pip`
+- instalar o Python
+  
+```
+yarn add python3
+```
+
+- instalar a biblioteca Flask
+
+```
+pip install Flask
+```
+  
+- Atualizar o pip
+  
+``` 
+python3.11 -m pip install --upgrade pip
+```
 
 6. Para criar e ativar o Virtual Venv use o comando.
 
