@@ -1,0 +1,15 @@
+# Dependência essencial para rodar seu projeto web
+Django==4.2.4
+
+# Dependências para rodar seus testes (Job 'test' no CI)
+pytest
+pytest-django
+
+# Se você estiver usando SQLite (padrão do Django), não precisa de mais nada para o DB.
+# Se estiver usando PostgreSQL ou MySQL, adicione o pacote correspondente:
+# psycopg2-binary
+# mysqlclient
+
+# Se você estiver usando Gunicorn ou uWSGI para servir a aplicação em produção:
+# gunicorn
+
