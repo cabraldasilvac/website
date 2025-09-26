@@ -13,3 +13,6 @@ pytest-django
 # Se você estiver usando Gunicorn ou uWSGI para servir a aplicação em produção:
 # gunicorn
 
+# Dependências adicionais para o módulo 'api/app.py' testado:
+Flask
+Jinja2 # Uma dependência do Flask, geralmente é bom listá-la
