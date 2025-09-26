@@ -8,7 +8,7 @@
 
 - [] implementar um Banco de Dados
 - [] fazer a integração com o WebSite.
-- [✅] criar uma pipeline 
+- [✅] criar uma pipeline
 
 1. O Site está hospedado na Vercel.
 2. Ele possui uma página Home, Contact, About, layout e projects.
@@ -25,13 +25,13 @@
 - Linguagem Python
 - O Flask - um Framework poderoso e flexível que facilita o desenvolvimento de aplicações web e APIs com a linguagem de programação Python
 - O Django - um Framework Ele oferece uma estrutura completa para o desenvolvimento de aplicações web, incluindo funcionalidades como roteamento, modelagem de dados, templates e segurança.
-  
+
    No arquivo requirements.txt tem uma lista completa das tecnologias usadas no projeto.
 
 5. Para usar o projeto, após o **_git clone_** será necessário instalar o Python3.
 
 - instalar o Python
-  
+
 ```
 yarn add python3
 ```
@@ -41,10 +41,10 @@ yarn add python3
 ```
 pip install Flask
 ```
-  
+
 - Atualizar o pip
-  
-``` 
+
+```
 python3.11 -m pip install --upgrade pip
 ```
 
@@ -69,7 +69,7 @@ source venv/bin/activate
 
 ## Setup
 
-### Instalar DependIencias 
+### Instalar DependIencias
 
 Use o seguinte comando para instalar todos os pacotes Python necessários:
 
@@ -96,7 +96,5 @@ O projeto é configurado com um fluxo de trabalho do GitHub Actions(`.github/wor
 - Compila o projeto
 - Implanta automaticamente no Vercel ao enviar para a branch `main`
 
-Certifique-se de definir seu TOKEN `VERCEL_TOKEN` no GitHub para implantação.
 
-
-
+Certifique-se de definir seu ***TOKEN*** `VERCEL_TOKEN` no GitHub para implantação.
