@@ -1,5 +1,5 @@
 # Dependência essencial para rodar seu projeto web
-Django==4.2.4
+Django==4.2.25
 
 # Dependências para rodar seus testes (Job 'test' no CI)
 pytest
